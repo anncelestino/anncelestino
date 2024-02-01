@@ -1,65 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ann Celestino - Data Analyst</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Ann Celestino - Data Analyst</h1>
+# Ann Celestino - Data Analyst
 
-    <h2>Contact Information</h2>
-    <ul>
-        <li><strong>Phone:</strong> (818) 510-9056</li>
-        <li><strong>Email:</strong> <a href="mailto:anncelestino11@gmail.com">anncelestino11@gmail.com</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/your-github-username">GitHub Profile</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn Profile</a></li>
-        <li><strong>Location:</strong> Northridge, CA</li>
-    </ul>
+📞 Phone: (818) 510-9056 | 📧 Email: anncelestino11@gmail.com | 🌐 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) | 📍 Northridge, CA
 
-    <h2>About Me</h2>
-    <p>
-        I am a recent graduate from Coding Temple, embarking on a transformative journey from the food service industry
-        to the dynamic realm of data and coding. My skills are versatile and adaptable, with a strong foundation in data
-        analytics and a commitment to continuous learning.
-    </p>
+## Objective
 
-    <h2>Objective</h2>
-    <p>
-        Recent Coding Temple graduate with a background shift from Food Service to Data/Coding, equipped with
-        transferable skills.
-    </p>
+Recent graduate from Coding Temple with a background shift from Food Service to Data/Coding, equipped with transferable skills.
 
-    <h2>Technical Skills</h2>
-    <!-- Include your technical skills here -->
+## Technical Skills
 
-    <h2>Education</h2>
-    <!-- Include your education details here -->
+- **Technologies:** SQL, MySQL, GoogleBigQuery
+- **Tools:** Git, RStudio, Jupyter Notebooks, Scikit-Learn (in Python), Pandas (in Python), Tableau, Streamlit, APIs, Matplotlib, NumPy, Seaborn, Zoom, Microsoft Outlook, Microsoft Excel, Microsoft Powerpoint, Microsoft Word, Canva, Google Docs, Google Bigquery
+- **Techniques:** Descriptive Analysis, Regression Analysis, Machine Learning Algorithms, K-Nearest Neighbors, Decision Trees, Logistic Regression, Linear Regression, Supervised Machine Learning, Preprocessing (StandardScaler), Confusion Matrix Display
+- **Certifications:** Coding Temple - Full-Time Live Data Analytics Program [Link Certification]
+- **Soft skills:** Communication, Independent, Growth Mindset, Tech Savvy, Customer Service, Teamwork, Stress Management, Adaptability, Time Management, Attention to Detail, Problem-Solving, Team Collaboration, Creativity, Continuous Learning, Time Management, Hospitality, Healthcare, Leadership
 
-    <h2>Software Development Projects</h2>
-    <!-- Include details of your projects here -->
+## Education
 
-    <h2>Experience</h2>
-    <!-- Include details of your experience here -->
+- Western Governors University | Nursing | 05/2019
+- Los Angeles Mission College | General Studies | 08/2017
+- College of the Canyons | General Studies | 08/2015
 
-    <!-- Feel free to customize the styling and structure based on your preferences -->
+## Software Development Projects
 
-</body>
-</html>
+- Song Stats Streamlit App (Back-end Project) | 01/2024
+- Video Game Sales Tableau Dashboard (Front-end Project) | 01/2024
+- Netflix Tableau Dashboard (Front-end Project) | 12/2023
+- Airline Satisfaction Predictions (Back-end Project) | 12/2023
+- Taylor Swift Exploratory Data Analysis (Front-end Project) | 12/2023
+- Home Price Predictions (Back-end Project) | 12/2023
+- New York City Airbnb Analysis (Back-end Project) | 11/2023
+
+## Experience
+
+### Coding Temple / Apprenticeship (Chicago, IL) | 11/2023 - 01/2024
+
+- Acquired hands-on experience with real-world datasets, applying statistical analysis and data visualization techniques
+- Successfully deployed two Streamlit apps using real-world datasets, showcasing practical application of learned skills
+- Demonstrated proficiency in data cleaning, exploratory data analysis (EDA), and model fitting during the bootcamp projects
+- Utilized machine learning modeling techniques to create predictive models for song popularity and customer satisfaction in the deployed apps
+- Utilized Python and pandas for data wrangling, cleaning, and preprocessing tasks in a Jupyter Notebook
+- Conducted exploratory data analysis (EDA) on various datasets to extract meaningful insights using Scikit-Learn/Matplotlib/Seaborn
+- Applied statistical techniques for hypothesis testing and trend analysis
+- Created compelling data visualizations using tools such as Matplotlib, Seaborn, Streamlit, and Tableau
+- Developed proficiency in SQL for querying and analyzing relational databases
+- Participated in hands-on projects involving data interpretation and decision-making
+- Collaborated with peers to solve real-world data challenges
+- Familiarized with machine learning concepts and algorithms for predictive modeling
+- Engaged in continuous learning and stayed updated on industry best practices
+
+### Diagnostic Laboratories / Data Entry and Stat Tracker (Burbank, CA) | 03/2018 - 08/2018
+
+- Accurately inputted and verified data into electronic databases
+- Proficient in maintaining records, conducting quality checks, and ensuring data accuracy
+- Worked cooperatively and fully communicated verbally with Area/Regional Phlebotomy Management, Logging Area, Lab Dispatch, Customer Service, Call Center, Redraw department, and Courier services to ensure case completion throughout the entire shift
+- Accommodated multiple facilities' special requests, honored high-priority facility laboratory orders, expedited urgent cases conducting constant follow-up
+- Maintained a positive attitude to connect parties to ensure excellent customer service was being provided
+
+### Six Flags Magic Mountain / Cashier and Team Member (Santa Clarita, CA) | 03/2017 - 09/2017
+
+- Received an Employee Recognition Award
+
+
