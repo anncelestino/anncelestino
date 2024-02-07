@@ -1,6 +1,6 @@
 # Ann Celestino - Data Analyst
 
-📞 Phone: (818) 510-9056 | 📧 Email: anncelestino11@gmail.com | 🌐 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) | 📍 Northridge, CA
+📞 Phone: (818) ***-**** | 📧 Email: anncelestino11@gmail.com | 🌐 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) | 📍 Northridge, CA
 
 ## Objective
 
