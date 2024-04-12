@@ -1,12 +1,12 @@
-# Ann Celestino - Data Analyst
+# Ann Celestino - Data Analyst 👩🏻‍💻
 
 📞 Phone: (818) ***-**** | 📧 Email: anncelestino11@gmail.com | 🌐 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) | 📍 Northridge, CA
 
 --- 
 
-## Accomplished and outcome-focused Data Analyst with a robust analytical and problem-solving acumen. Proficient in data manipulation, statistical analysis, and data visualization, with expertise in predictive modeling using machine learning algorithms. Experienced in deriving actionable insights from intricate datasets to drive value for innovative and forward-looking enterprises.
+### Accomplished and outcome-focused Data Analyst with a robust analytical and problem-solving acumen. Proficient in data manipulation, statistical analysis, and data visualization, with expertise in predictive modeling using machine learning algorithms. Experienced in deriving actionable insights from intricate datasets to drive value for innovative and forward-looking enterprises. 🚀
 
-## Technical Skills
+## Technical Skills 💻
 
 - **Technologies:** Python, Git, SQL, GoogleBigQuery
 - **Tools:** Tableau, Jupyter Notebooks, Scikit-Learn, Pandas, Matplotlib, NumPy, Seaborn, Zoom, Microsoft Outlook,  Microsoft Excel, Microsoft Word, Microsoft Powerpoint, Canva, Google Docs, Google Bigquery, Streamlit, APIs, Cerner, database, command line
@@ -14,7 +14,7 @@
 - **Certifications:** Coding Temple - Full-Time Live Data Analytics Program [Link Certification]
 - **Soft skills:** Customer Service, Adaptability, Time Management, Attention to Detail, Problem Solver, Collaboration, Creativity, Presentation skills, Hospitality, Leadership, Ethical
 
-## Software Development Projects
+## Software Development Projects 👾
 
 ### Song Stats Streamlit App (Back-end Project) | 01/2024
 - Developed a web application using Streamlit and Python, integrating Spotify's API for real-time data access - https://songstats.streamlit.app
@@ -61,7 +61,7 @@
 - Developed predictive models to forecast listing prices, contributing to strategic decision-making
 - Collaborated with stakeholders to deliver actionable insights and recommendations, showcasing strong analytical and problem-solving skills in project execution
 
-## Professional Experience
+## Professional Experience 💼
 
 ### Coding Temple / Business Intelligence Analyst (Chicago, IL) | 11/2023 - 01/2024
 
@@ -87,7 +87,7 @@
 - Accommodated multiple facilities' special requests, honored high-priority facility laboratory orders, expedited urgent cases conducting constant follow-up
 - Maintained a positive attitude to connect parties to ensure excellent customer service was being provided
 
-## Education
+## Education 🎓
 
 - Western Governors University | Nursing | 05/2019
 - Los Angeles Mission College | General Studies | 08/2017
