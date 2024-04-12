@@ -2,37 +2,68 @@
 
 📞 Phone: (818) ***-**** | 📧 Email: anncelestino11@gmail.com | 🌐 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) | 📍 Northridge, CA
 
-## Objective
+--- 
 
-Recent graduate from Coding Temple with a background shift from Food Service to Data/Coding, equipped with transferable skills.
+## Accomplished and outcome-focused Data Analyst with a robust analytical and problem-solving acumen. Proficient in data manipulation, statistical analysis, and data visualization, with expertise in predictive modeling using machine learning algorithms. Experienced in deriving actionable insights from intricate datasets to drive value for innovative and forward-looking enterprises.
 
 ## Technical Skills
 
-- **Technologies:** SQL, MySQL, GoogleBigQuery
-- **Tools:** Git, RStudio, Jupyter Notebooks, Scikit-Learn (in Python), Pandas (in Python), Tableau, Streamlit, APIs, Matplotlib, NumPy, Seaborn, Zoom, Microsoft Outlook, Microsoft Excel, Microsoft Powerpoint, Microsoft Word, Canva, Google Docs, Google Bigquery
-- **Techniques:** Descriptive Analysis, Regression Analysis, Machine Learning Algorithms, K-Nearest Neighbors, Decision Trees, Logistic Regression, Linear Regression, Supervised Machine Learning, Preprocessing (StandardScaler), Confusion Matrix Display
+- **Technologies:** Python, Git, SQL, GoogleBigQuery
+- **Tools:** Tableau, Jupyter Notebooks, Scikit-Learn, Pandas, Matplotlib, NumPy, Seaborn, Zoom, Microsoft Outlook,  Microsoft Excel, Microsoft Word, Microsoft Powerpoint, Canva, Google Docs, Google Bigquery, Streamlit, APIs, Cerner, database, command line
+- **Techniques:** Descriptive Analysis, Regression Analysis, Machine Learning Algorithms,  K-Nearest Neighbors, Decision Trees, Logistic Regression, Linear Regression, Supervised Machine Learning, Preprocessing (StandardScaler), Confusion Matrix Display
 - **Certifications:** Coding Temple - Full-Time Live Data Analytics Program [Link Certification]
-- **Soft skills:** Communication, Independent, Growth Mindset, Tech Savvy, Customer Service, Teamwork, Stress Management, Adaptability, Time Management, Attention to Detail, Problem-Solving, Team Collaboration, Creativity, Continuous Learning, Time Management, Hospitality, Healthcare, Leadership
-
-## Education
-
-- Western Governors University | Nursing | 05/2019
-- Los Angeles Mission College | General Studies | 08/2017
-- College of the Canyons | General Studies | 08/2015
+- **Soft skills:** Customer Service, Adaptability, Time Management, Attention to Detail, Problem Solver, Collaboration, Creativity, Presentation skills, Hospitality, Leadership, Ethical
 
 ## Software Development Projects
 
-- Song Stats Streamlit App (Back-end Project) | 01/2024
-- Video Game Sales Tableau Dashboard (Front-end Project) | 01/2024
-- Netflix Tableau Dashboard (Front-end Project) | 12/2023
-- Airline Satisfaction Predictions (Back-end Project) | 12/2023
-- Taylor Swift Exploratory Data Analysis (Front-end Project) | 12/2023
-- Home Price Predictions (Back-end Project) | 12/2023
-- New York City Airbnb Analysis (Back-end Project) | 11/2023
+### Song Stats Streamlit App (Back-end Project) | 01/2024
+- Developed a web application using Streamlit and Python, integrating Spotify's API for real-time data access - https://songstats.streamlit.app
+- Utilized Jupyter Notebook to ensure dataset quality and accuracy through data extraction, cleaning, and manipulation
+- Employed Python libraries (Pandas, Scikit-Learn, Matplotlib) for efficient data processing and visualization
+- Implemented interactive graphs within the application to illustrate song metrics and popularity
+- Leveraged Big Data principles to optimize application performance with efficient handling of large datasets
+- Created an intuitive user interface allowing users to view song metrics, popularity, and preview songs
 
-## Experience
+### Video Game Sales Tableau Dashboard (Front-end Project) | 01/2024
+- Led data acquisition from Kaggle.com using advanced web scraping techniques to obtain comprehensive video game sales datasets
+- Utilized Python libraries (Pandas, NumPy, Matplotlib, Seaborn) in Jupyter Notebook for precise data manipulation and analysis
+- Transformed raw data into actionable insights through meticulous preprocessing, ensuring data accuracy for strategic decision-making
+- Developed captivating Tableau dashboard showcasing key performance indicators, enabling data-driven decisions
+- Collaborated with stakeholders to tailor dashboard insights, empowering informed strategic decisions
+- Demonstrated exceptional communication skills in presenting and training stakeholders for optimized engagement
 
-### Coding Temple / Apprenticeship (Chicago, IL) | 11/2023 - 01/2024
+### Netflix Tableau Dashboard (Front-end Project) | 12/2023
+- Created an interactive Tableau dashboard tailored to stakeholders' preferences, reflecting Netflix's brand colors
+- Incorporated user-friendly features for selecting and viewing key information on movies and TV shows
+- Implemented dynamic visualizations for Top 10 genres, yearly counts, and ratings distribution
+- Ensured seamless navigation for stakeholders, facilitating quick access to insights
+- Collaborated closely with stakeholders to refine dashboard design and functionality
+- Demonstrated Tableau proficiency for efficient data visualization without a separate data warehouse
+
+### Airline Satisfaction Predictions (Back-end Project) | 12/2023
+- Developed an interactive Streamlit web app integrating machine learning models to predict airline satisfaction based on diverse customer feedback parameters - https://airline-customer-satisfaction.streamlit.app
+- Utilized Python to implement logistic regression and decision tree algorithms for accurate satisfaction level classification.
+- Integrated data from customer surveys and airline databases to train and validate predictive models, ensuring robust performance
+- Designed user-friendly interface and conducted rigorous testing to deliver a seamless user experience
+- Presented web app to stakeholders, providing comprehensive training on functionalities a 
+
+### Home Price Predictions (Back-end Project) | 12/2023
+- Conducted regression analysis to predict home prices based on key features
+- Utilized Python and regression models for analyzing historical sales data
+- Implemented data preprocessing techniques to ensure model accuracy
+- Developed and optimized regression models for reliable predictions
+- Integrated predictive model into a real-time application for users
+- Collaborated with stakeholders to refine model features and demonstrate the value of predictive analytics for real estate 
+
+### New York City Airbnb Analysis (Back-end Project) | 11/2023
+- Conducted thorough analysis of NYC Airbnb data using Python and data manipulation libraries for preprocessing
+- Employed data visualization tools to create informative visuals and identify key trends
+- Developed predictive models to forecast listing prices, contributing to strategic decision-making
+- Collaborated with stakeholders to deliver actionable insights and recommendations, showcasing strong analytical and problem-solving skills in project execution
+
+## Professional Experience
+
+### Coding Temple / Business Intelligence Analyst (Chicago, IL) | 11/2023 - 01/2024
 
 - Acquired hands-on experience with real-world datasets, applying statistical analysis and data visualization techniques
 - Successfully deployed two Streamlit apps using real-world datasets, showcasing practical application of learned skills
@@ -48,7 +79,7 @@ Recent graduate from Coding Temple with a background shift from Food Service to 
 - Familiarized with machine learning concepts and algorithms for predictive modeling
 - Engaged in continuous learning and stayed updated on industry best practices
 
-### Diagnostic Laboratories / Data Entry and Stat Tracker (Burbank, CA) | 03/2018 - 08/2018
+### Diagnostic Laboratories / Data Entry Specialist (Burbank, CA) | 03/2018 - 08/2018
 
 - Accurately inputted and verified data into electronic databases
 - Proficient in maintaining records, conducting quality checks, and ensuring data accuracy
@@ -56,8 +87,8 @@ Recent graduate from Coding Temple with a background shift from Food Service to 
 - Accommodated multiple facilities' special requests, honored high-priority facility laboratory orders, expedited urgent cases conducting constant follow-up
 - Maintained a positive attitude to connect parties to ensure excellent customer service was being provided
 
-### Six Flags Magic Mountain / Cashier and Team Member (Santa Clarita, CA) | 03/2017 - 09/2017
+## Education
 
-- Received an Employee Recognition Award
-
-
+- Western Governors University | Nursing | 05/2019
+- Los Angeles Mission College | General Studies | 08/2017
+- College of the Canyons | General Studies | 08/2015
